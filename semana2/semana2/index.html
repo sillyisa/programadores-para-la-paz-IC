@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulario comunitario.</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <main>
+    <section class="contenedor">
+      <h1>   Participa para transformar tu comunidad.</h1>
+
+      <p>
+        Este formulario tiene como propósito recoger propuestas, ideas o necesidades de la comunidad. Que serán tomadas en cuenta y aplicadas. 
+        La información será usada únicamente con fines de participación y organización comunitaria. Esperamos este sea una espacio de colaboración respetuosa y comprometida.
+      </p>
+
+      <form>
+        <div class="campo">
+          <label for="nombre">Nombre y apelllidos del participante.</label>
+          <input 
+            type="text" 
+            id="nombre" 
+            name="nombre" 
+            placeholder="Escribe tu nombre">
+        </div>
+
+        <div class="campo">
+          <label for="propuesta">Escribe tu propuesta o mensaje para la comunidad.</label>
+          <textarea 
+            id="propuesta" 
+            name="propuesta" 
+            placeholder="Escribe tu propuesta para la comunidad"></textarea>
+        </div>
+
+        <div class="campo">
+          <label for="contacto">Además, si quieres que te contactemos, escribe tu correo o teléfono de contacto. (Opcional).</label>
+          <input 
+            type="text" 
+            id="contacto" 
+            name="contacto" 
+            placeholder="Este campo es opcional">
+        </div>
+
+        <div class="campo">
+          <label>
+            <input type="checkbox" name="consentimiento">
+            Sí aceptas que tu información sea usada únicamente para fines de participación comunitaria. Oprima para aceptar. Igualmente, en caso de querer ser contactado, daré consentimiento para que me contacten.
+          </label>
+        </div>
+
+        <button type="submit">Enviar participación</button>
+      </form>
+    </section>
+  </main>
+
+</body>
+</html>
