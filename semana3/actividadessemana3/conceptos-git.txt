@@ -1,0 +1,5 @@
+Repositorio: El repositorio es un elemento básico de GitHub, que sirve como carpeta de un proyecto. Donde se pueden almacenar archivos, documentación, un historial. Puede ser público o privado e incluir colaboradores.
+
+Commit: Este es un comando que sirve para crear una fotografía. Un cambio hecho a un archivo, el cual hacemos commit y guarda nuestro trabajo. Además, guarda registros de cada cambio realizado, con una pequeña descripción.
+
+Push: Este comando sirve para subir todos los cambios hechos en un proyecto a GitHub, un repositorio remoto. Para que otras personas puedan acceder a esos cambios.
