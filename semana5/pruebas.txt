@@ -1,0 +1,1 @@
+Cuando se ejecuta en el navegador http://localhost:3000, aparece un mensaje que dice Servidor activo. Cuando se ejecuta http://localhost:3000/saludo, aparece un mensaje que dice Hola comunidad. Cuando se ejecuta http://localhost:3000/mensaje/juan, aparece un mensaje que dice Hola juan.

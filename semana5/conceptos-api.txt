@@ -1,0 +1,3 @@
+1.R/ Esta ruta Post permite que la información enviada por el usuario sea recibida. Por medio de un req.body que obtiene el mensaje enviado y el JSON que rectifica que el reporte fue recibido.
+
+2.R/ Para una aplicación comunitaria, puede servir para que las personas envíen reportes, avisos, solicitudes o mensajes para toda la comunidad.
