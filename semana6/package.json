@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "semana6",
+  "version": "1.0.0",
+  "description": "Esta actividad nos ayuda a poner en práctica los conceptos de Node.js · Express · JSON · req.body · Peticiones POST. Ayudándonos a cómo recibir y procesar datos enviados por el usuario.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

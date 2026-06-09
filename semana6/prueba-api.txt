@@ -1,0 +1,9 @@
+Al realizar la petición POST a la ruta /registro enviando el objeto JSON con los datos de "Maria", el servidor devuelve una respuesta exitosa con el código de estado 200 OK.
+
+La respuesta recibida por el servidor fue:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
