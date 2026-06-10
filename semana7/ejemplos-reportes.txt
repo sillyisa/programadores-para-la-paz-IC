@@ -1,0 +1,13 @@
+Ejemplo 1: 
+
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de señalización y semáforo peatonal averiado en intersección escolar"
+}
+
+Ejemplo 2:
+
+{
+  "tipo": "Movilidad",
+  "descripcion": "Bache de gran tamaño en el carril derecho que afecta el tránsito vehicular"
+}
