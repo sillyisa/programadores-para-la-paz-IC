@@ -1,0 +1,7 @@
+Cuando se ejecuta el comando: uname -a 
+Muestra la informació: Linux codespaces-b2e305 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+Cuando se ejecuta el comando:  
+Muestra la informació: codespace
+
+- Es útil conocer información del sistema cuando se administra un servidor porque así estamos al tanto de nuestro dispositivo. Sabiendo esto podemos ver si nuestro servidor es compatible con nuestro sistema operativo, verificar posibles problemas de rendimiento o protegernos, al estar pendiente de actualizar a cada momneto.

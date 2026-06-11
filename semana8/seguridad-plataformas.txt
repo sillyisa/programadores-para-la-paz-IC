@@ -1,0 +1,7 @@
+Prácticas de seguridad en una plataforma digital comunitaria.
+
+1. Evitar compartir información sensible.
+2. Proteger datos personales.
+3. Contar con credenciales de acceso con contraseñas segura.
+4. Actualización constante del sistema.
+5. Realizar copias de seguridad de la información.
