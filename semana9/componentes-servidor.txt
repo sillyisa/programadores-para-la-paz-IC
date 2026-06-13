@@ -1,0 +1,9 @@
+1. Sistema operativo: Este constituye el software fundamental de un dispositivo. Estableciendo un puente entre el usuario y el hardware.
+
+2. Node.js: Es un entorno de ejecución de JavaScrip (lenguaje de programación estándar) gratuito, de código abierto y multiplataforma. Permitiendo ejecutarlo fuera del navegador web.
+
+3. Aplicación server.js: Es el punto de partida de una aplicación web creada por Node.js. Funciona adicionando un código de texto que creamos para ejecutarlo y crear un servidor.
+
+4. Puerto: Es como la puerta digital donde permite que los programas se comuniquen con el exterior, por medio del internet.
+
+5. Logs: Son los archivos que nos registran la actividad y eventos del sistema. Por ejemplo una advertencia, una petición o un éxito en una operación.
