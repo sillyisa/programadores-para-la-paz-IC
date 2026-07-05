@@ -1,0 +1,8 @@
+1. Las dos primeras tareas del backlog que haría serían crear un formulario de derecho de petición y crear un login simple.
+
+2.Consideraría estas dos tareas como las más importantes porque permitirían que los ciudadanos registren sus peticiones de manera segura, permitiendo que ciertas personas manejen la información.
+
+3. Para considerar "terminada":
+
+-Formulario de derecho de petición: 1. Tiene una historia de usuario clara. 2.Tiene criterios de aceptación. 3.Está documentada.
+-Login simple:1. Ingreso de credenciales correctas. 2. El sistema reconoce las credenciales. 3. Lleva a la ruta adecuada.

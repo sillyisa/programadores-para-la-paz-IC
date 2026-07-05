@@ -1,0 +1,4 @@
+1. Como ciudadano quiero generar un derecho de petición para solicitar información pública.
+2. Como coordinador quiero tener acceso a las peticiones para actualizar su estado y adicionar una observación.
+3. Como miembro del equipo quiero automatizar el envío de recordatorios para que las solicitudes no queden sin respuesta.
+4. Como miembro del equipo quiero ingresar al backlog para gestionar las actividades de la iteración.

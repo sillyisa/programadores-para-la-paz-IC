@@ -1,0 +1,7 @@
+Evento: Una petición lleva varios días sin responderse.
+
+Acción: n8n envía un mensaje a telegram.
+
+Mensaje: "Recordatorio: Esta petición no ha se le ha hecho seguimiento."
+
+Información que no debe enviarse: Documento de identidad, dirección, télefono, archivos adjuntos privados.
