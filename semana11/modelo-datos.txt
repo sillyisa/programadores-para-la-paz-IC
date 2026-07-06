@@ -1,0 +1,21 @@
+Ejemplo plataforma de cursos.
+
+Entidad: curso
+
+Campos principales:
+-id
+-nombre
+-duración
+-descripción
+
+Propósito: Guardar la información de los cursos disponibles.
+
+Entidad: estudiante
+
+Campos principales: 
+-id
+-nombre
+-correo
+-curso_id
+
+Propósito: Llevar un registro de los estudiantes y los cursos en los que están inscritos.

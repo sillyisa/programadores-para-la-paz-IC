@@ -1,0 +1,5 @@
+El login en una aplicación funciona como una puerta de acceso a una plataforma o aplicación que permite a los usuarios tener una identificación antes de acceder a las funciones.
+
+Algunas rutas deben permanecer protegidas porque dirigen a funciones internas del sistema. Ya sea una base de datos o un dashboard, que puede contener información privada o sensible de los usuarios. A la cual solo deben acceder las personas indicadas.
+
+No debe exponerse públicamente información privada como tokens, claves bancarias, documentos de identidad, números telefónicos, contraseñas, direcciones. De ser expuesta, se corre el riesgo del robo de identidad, fraudes o pérdida de privacidad.

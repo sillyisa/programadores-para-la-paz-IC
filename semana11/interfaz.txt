@@ -1,0 +1,9 @@
+En la interfaz se dispondrá de un formulario para registrar un nuevo curso, donde el administrador ingrese el nombre del curso, una descripción y la duración.
+
+Igualmente, una lista de cursos con todas las especificaciones para que los aspirantes puedan leerlas y escoger el que más les gusta.
+
+Dentro de la información de cada curso habrá un botón de inscribirse para que los aspirantes se inscriban de manera segura.
+
+En la interfaz también se podrá encontrar un menú de navegación que incluya opciones como Inicio, Mis cursos, Mi perfil.
+La interfaz será segura, sencilla y organizada, asegurando que solo se exponga la información necesaria de los cursos y la inscripción. Esta interfaz no muestra datos sensibles o información privada.
+
