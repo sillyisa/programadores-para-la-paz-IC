@@ -1,0 +1,7 @@
+Funcionamiento sistema Petición en 3 Clics.
+
+1. El ciudadano registra una petición nueva, completado con un titulo y descripción.
+2. La petición queda registrada en la base de datos.
+3. La petición queda expuesta para que otras personas la vean y, si deciden hacerlo, apoyarla.
+4. Los apoyos se pueden registrar ingresando el nombre de práctica y la descripción. Para que luego un sistema los cuente.
+5. El sistema generará un documento PDF con la petición y apoyos, para que se pueda descargar.

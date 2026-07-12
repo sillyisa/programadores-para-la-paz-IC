@@ -1,0 +1,5 @@
+Ejemplo: Página de becas internacinales. 
+
+Evento: nueva solicitud de beca registrada.
+Mensaje: "Nueva solicitud de beca fué creada en la página".
+Información que no debe enviarse: datos sensibles, estado de solicitud, información bancaria, cédula, número teléfonico.

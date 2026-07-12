@@ -1,0 +1,18 @@
+MODELO DE DATOS.
+
+Entidad: causa.
+Título.
+descripción.
+Fecha.
+
+descripción: La identidad causa almacena la información de cada causa registrada por la comunidad, como su título, descripción y fecha en la que fué creada.
+
+
+Entidad: apoyo.
+id.
+Causa_id.
+Nombre.
+Fecha.
+
+descripción: La entidad apoyo registra la cantidad de personas que apoyan una causa. Por medio del campo causa_id relaciona cada apoyo con la causa relacionada.
+
